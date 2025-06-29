@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vikramsolanki/Documents/c:c++/question solving/output/fibonacciRecursion'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _fibo, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x8C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _fibo, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x8C }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _fiboprint, symObjAddr: 0x8C, symBinAddr: 0x100003E94, symSize: 0x74 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x100, symBinAddr: 0x100003F08, symSize: 0x60 }
+...

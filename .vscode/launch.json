@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/vikramsolanki/Documents/c:c++/c/pattern",
+      "program": "/Users/vikramsolanki/Documents/c:c++/c/pattern/build/Debug/outDebug"
+    }
+  ]
+}
